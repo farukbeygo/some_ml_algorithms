@@ -16,11 +16,11 @@ Make sure you have the following software installed on your local machine:
 
 ## Gradient Descent Algorithm
 
-![normal_graph](gradient descent/gradient_descent1.png)
+![normal_graph](gradient_descent/gradient_descent1.png)
 
-![learning_with_gd](gradient descent/gradient_descent2.png)
+![learning_with_gd](gradient_descent/gradient_descent2.png)
 
-![final_analyze](gradient descent/gradient_descent3.png)
+![final_analyze](gradient_descent/gradient_descent3.png)
 
 ## Contributing
 If you would like to contribute to this project, feel free to submit a pull request.
