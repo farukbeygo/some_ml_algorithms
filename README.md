@@ -16,6 +16,8 @@ Make sure you have the following software installed on your local machine:
 
 ## Gradient Descent Algorithm
 
+Here is some simple gradient descent model with learning graph for the function $ f(x) = x^2 + x + 2 $
+
 ![normal_graph](gradient_descent/gradient_descent1.png)
 
 ![learning_with_gd](gradient_descent/gradient_descent2.png)
