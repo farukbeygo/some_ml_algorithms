@@ -24,6 +24,14 @@ Here is some simple gradient descent model with learning graph for the function 
 
 ![final_analyze](gradient_descent/gradient_descent3.png)
 
+## Learning Rate Effect
+
+![smallest](learning_rate_scratch/learning_rate_graph/smallest_lr.png)
+
+![mid](learning_rate_scratch/learning_rate_graph/small_lr.png)
+
+![large](learning_rate_scratch/learning_rate_graph/large_lr.png)
+
 ## Contributing
 If you would like to contribute to this project, feel free to submit a pull request.
 
