@@ -26,6 +26,8 @@ Here is some simple gradient descent model with learning graph for the function 
 
 ## Learning Rate Effect
 
+Here is the effect of different learning rate on my cost function
+
 ![smallest](learning_rate_scratch/learning_rate_graph/smallest_lr.png)
 
 ![mid](learning_rate_scratch/learning_rate_graph/small_lr.png)
