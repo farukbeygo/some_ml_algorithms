@@ -34,6 +34,14 @@ Here is the effect of different learning rate on my cost function
 
 ![large](learning_rate_scratch/learning_rate_graph/large_lr.png)
 
+## Multi-Dimesional Learning
+
+Here is the learning visulazition in 3d
+
+![normal_graph](3d_visualization/3d_graph.png)
+
+![learning_with_gd](3d_visualization/3d_graph_with_learning.png)
+
 ## Contributing
 If you would like to contribute to this project, feel free to submit a pull request.
 
